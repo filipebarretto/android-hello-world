@@ -44,14 +44,14 @@ Set your Activity Name do MainActivity and the Layout Name to activity_main. Cli
 To run your project on Android Studio as it was generated, click Run > Run ‘app’, or the play icon on the top bar.
 
 <p align="center">
-[Android Studio](screenshots/android-hello-world-android-studio.png)
+![Android Studio](screenshots/android-hello-world-android-studio.png)
 
 </p>
 
 The project ran should look something like:
 
 <p align="center">
-[Android Hello World](screenshots/android-hello-world-android-mobile-1.png)
+![Android Hello World](screenshots/android-hello-world-android-mobile-1.png)
 </p>
 
 
