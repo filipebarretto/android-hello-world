@@ -5,12 +5,20 @@
 Simple sample Android mobile application project
 
 ### Version
-1.0.0
+1.0.1
 
 ### Table of Contents
 
-<!-- START doctoc —->
-<!-- END doctoc —>
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Getting Started](#getting-started)
+  - [Install Android Studio](#install-android-studio)
+  - [Create Android Project](#create-android-project)
+  - [Run created project](#run-created-project)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 ## Getting Started
@@ -39,7 +47,7 @@ To run your project on Android Studio as it was generated, click Run > Run ‘ap
 
 The project ran should look something like:
 
-<img src="https://dl.dropboxusercontent.com/u/33812048/android-hello-world-android-mobile-1” width=“48”>
+<img src="https://dl.dropboxusercontent.com/u/33812048/android-hello-world-android-mobile-1.png” width=“48”>
 
 
 
