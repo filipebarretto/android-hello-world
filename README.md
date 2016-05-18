@@ -50,7 +50,7 @@ To run your project on Android Studio as it was generated, click Run > Run ‘ap
 The project ran should look something like:
 
 <p align="center">
-<img alt=“Android Hello World” src="https://dl.dropboxusercontent.com/u/33812048/android-hello-world-android-mobile-1.png” align="center">
+<img alt=“Android Hello World” src=“https://dl.dropboxusercontent.com/u/33812048/android-hello-world-android-mobile-1.png”>
 </p>
 
 
